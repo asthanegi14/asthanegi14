@@ -1,4 +1,4 @@
-### Hey there, I'm Astha Negi| 👋
+### Hey there, I'm Astha Negi 👋
 
 
 - 🔭 I’m currently studying ...
