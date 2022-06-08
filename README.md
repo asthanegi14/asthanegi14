@@ -1,7 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Astha Negi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asthanegi14&label=Profile%20views&color=0e75b6&style=flat" alt="asthanegi14" /> </p>
+<img align="right" alt="coading" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 🌱 I’m currently learning **Java**
 
