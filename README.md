@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development and Data Structures and Algorithms**
 
 - 📫 How to reach me **asthanegi539@gmail.com**
 
