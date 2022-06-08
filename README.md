@@ -1,19 +1,29 @@
-### Hey there, I'm Astha Negi 👋
+<h1 align="center">Hey there 👋, I'm Astha Negi</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asthanegi14&label=Profile%20views&color=0e75b6&style=flat" alt="asthanegi14" /> </p>
 
-- 🔭 I’m currently studying ...
-- 🌱 I’m currently learning java and backend web devlopment...
-- 🤔 I’m looking for help with backend web devlopment...
-- 💬 Ask me about frontend web devlopment...
-- 📫 How to reach me: gmail - asthanegi539@gmail.com , Instagram - [astha____________](https://www.instagram.com/astha____________/)
-- ⚡ Fun fact: I love watching anime...
+- 🌱 I’m currently learning **Java**
 
+- 💬 Ask me about **Frontend Development**
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=asthanegi14&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asthanegi14&layout=compact"/>
+- 📫 How to reach me **asthanegi539@gmail.com**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+- ⚡ Fun fact **I can touch my nose from my tongue**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/astha-negi-771b22216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/astha-negi-771b22216/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/astha____________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/astha____________" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/astha_negi_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/astha_negi_26" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/ashta_negi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ashta_negi/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asthanegi14&show_icons=true&locale=en&layout=compact" alt="asthanegi14" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asthanegi14&show_icons=true&locale=en" alt="asthanegi14" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asthanegi14&" alt="asthanegi14" /></p>
