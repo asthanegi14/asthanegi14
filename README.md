@@ -1,7 +1,4 @@
 <h1 align="center">Hey there 👋, I'm Astha Negi</h1>
-
-[![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
-
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coading" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
