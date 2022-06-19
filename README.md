@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asthanegi14&" alt="asthanegi14" /></p>
 
-[![Astha's github activity graph](https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
