@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **asthanegi539@gmail.com**
 
-- ⚡ Fun fact **Even if you're a billionaire, still you have to die one day**
+- ⚡ Fun fact **If you became a billionaire, you have to die one day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
