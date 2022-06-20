@@ -2,13 +2,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coading" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Frontend Development and Data Structures and Algorithms**
+- 🌱 I’m currently preparing for **My end term examination**
 
 - 📫 How to reach me **asthanegi539@gmail.com**
 
-- ⚡ Fun fact **I can touch my nose from my tongue**
+- ⚡ Fun fact **Even if you're a billionaire, still you have to die one day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
