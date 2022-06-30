@@ -32,7 +32,7 @@
  <img src="https://img.shields.io/badge/-AsthaNegi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/astha-negi-771b22216/"/>
 </a>
  <a href="https://www.instagram.com/astha____________/">
- <img src="https://img.shields.io/badge/-AsthaNegi-red?style=flat-square&logo=twitter&logoColor=white&link=[https://ww].instagram.com/astha____________/]"/>
+ <img src="https://img.shields.io/badge/-AsthaNegi-red?style=flat-square&logo=instagram&logoColor=white&link=[https://ww].instagram.com/astha____________/]"/>
 </a>
 </p>
 
