@@ -2,13 +2,15 @@
 
 ![github_img](https://user-images.githubusercontent.com/93486108/176462149-0c3df8bc-0574-474d-80cb-eb3829fd4439.png)
 
-<p align="center">
+<p align="center"> 
+
+ <img src="https://komarev.com/ghpvc/?username=asthanegi14&color=brightgreen"/> 
  <img src="https://badges.pufler.dev/repos/asthanegi14"/>
  <img src="https://badges.pufler.dev/commits/monthly/asthanegi14" />
 
 </p>
 
-<h2 align="center">Languages and Tools Stack</h2>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
