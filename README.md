@@ -5,8 +5,6 @@
 <p align="center"> 
 
  <img src="https://komarev.com/ghpvc/?username=asthanegi14&color=brightgreen"/> 
- <img src="https://badges.pufler.dev/repos/asthanegi14"/>
- <img src="https://badges.pufler.dev/commits/monthly/asthanegi14" />
 
 </p>
 
