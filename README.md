@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
-<h2 align="center"> Developer Forums & Education & IDEs</h2>
+<h2 align="center"> Developer Forums || Education || IDEs</h2>
 <p align="center">
 <img font-size = 10px src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
