@@ -9,7 +9,7 @@
 </p>
 
  
-<h2 align="center">Languages<img src="https://user-images.githubusercontent.com/93486108/182108285-dccbdedc-285e-4c16-abe4-dd93911ede43.gif" width=100></h2>
+<h2 align="center">Languages<img src="https://user-images.githubusercontent.com/93486108/182168417-56cb8c9d-16f8-4eef-9a78-4b240293901a.gif" width=100></h2>
 <br>
 <p align="center">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
-<h2 align="center">Education || IDEs<img src="https://user-images.githubusercontent.com/93486108/182105970-5241a56a-135a-41ad-b052-d3a3bc9d656b.gif" width="100"></h2>
+<h2 align="center">Education || IDEs<img src="https://user-images.githubusercontent.com/93486108/182168541-5670dcf7-2660-4ab0-a4a9-a36bca43a72f.gif" width="100"></h2>
 <p align="center">
 <img font-size = 10px src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
