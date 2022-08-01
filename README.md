@@ -39,7 +39,7 @@
 </p>
 
  
-<h2 align="center">Connect<img src="https://user-images.githubusercontent.com/93486108/182097836-df1deea7-fa68-4c04-9fad-00c9c579f1bf.gif" width=170></h2>
+<h2 align="center">Connect with me<br><img src="https://user-images.githubusercontent.com/93486108/182097836-df1deea7-fa68-4c04-9fad-00c9c579f1bf.gif" width=170></h2>
 <p align="center">
 <a href="mailto: asthanegi539@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
