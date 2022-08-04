@@ -53,6 +53,11 @@
 </p>
 
 <p align = "center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=754f54bi65zwor3xkatzq5ikq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+</p> 
+ 
+ 
+<p align = "center">
   <img  src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asthanegi14&theme=radical">
 </p>
 
@@ -67,3 +72,4 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=redical">
 </p> 
+
