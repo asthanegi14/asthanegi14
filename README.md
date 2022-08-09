@@ -61,14 +61,14 @@
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=asthanegi14&layout=compact&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=asthanegi14&layout=compact&theme=gotham">
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asthanegi14&theme=radical&utcOffset=8">
 </p>
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asthanegi14&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asthanegi14&show_icons=true&locale=en&layout=compact&theme=gotham&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=gotham">
 </p> 
 
