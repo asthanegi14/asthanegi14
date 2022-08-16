@@ -4,8 +4,9 @@
 
 <p align="center"> 
 
- <img src="https://komarev.com/ghpvc/?username=asthanegi14&color=brightgreen"/> 
+<img src="https://komarev.com/ghpvc/?username=asthanegi14&color=blue"/> 
 
+<img src="https://wakatime.com/badge/user/db07c0b8-73d5-4aef-8d03-49be9c52c4b1.svg"/>
 </p>
  
 <h2 align="center">Languages<img src="https://user-images.githubusercontent.com/93486108/182312548-98e25b64-0fe8-496d-bf66-51d671f7d219.gif" width=100></h2>
@@ -50,6 +51,7 @@
 </a>
  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
+
 
 <p align = "center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=754f54bi65zwor3xkatzq5ikq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
