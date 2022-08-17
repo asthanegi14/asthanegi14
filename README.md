@@ -64,7 +64,6 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=asthanegi14&layout=compact&theme=gotham">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asthanegi14&theme=github_dark&utcOffset=8">
 </p>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asthanegi14&show_icons=true&locale=en&layout=compact&theme=gotham&line_height=0" />
