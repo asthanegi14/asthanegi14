@@ -59,12 +59,14 @@
  
  
 <p align = "center">
-  <img  src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asthanegi14&theme=github_dark">
+  <img  src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asthanegi14&theme=github_dark">
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=asthanegi14&layout=compact&theme=gotham">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asthanegi14&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asthanegi14&theme=github_dark">
 </p>
+
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asthanegi14&show_icons=true&locale=en&layout=compact&theme=gotham&line_height=0" />
 </p> 
@@ -73,3 +75,6 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=gotham">
 </p> 
 
+<p align = "center">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=white&height=250&section=footer&text=Thanks%20For%20Visiting&fontSize=50&theme=tokyonight&animation=twinkling&fontAlignY=70" />
+</p> 
