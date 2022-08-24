@@ -72,7 +72,7 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=gotham">
+ <img src="https://count.getloli.com/get/@:asthanegi14">
 </p> 
 
 <p align = "center">
