@@ -70,12 +70,18 @@
 <p align = "center">
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asthanegi14&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asthanegi14&theme=github_dark">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asthanegi14&show_icons=true&locale=en&layout=compact&theme=gotham&line_height=0" />
 </p> 
 
+<p align = "center">
+<!--  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" /> -->
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asthanegi14&theme=gotham&hide_border=true" />
+<!--  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" /> -->
+</p> 
+
+<!-- 
+<p align = "center">
+ <img  src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=dracula&bg_color=FF000000&hide_border=true" />
+</p> -->
 
 <p align = "center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=white&height=250&section=footer&text=Thanks%20For%20Visiting&fontSize=50&theme=tokyonight&animation=twinkling&fontAlignY=70" />
