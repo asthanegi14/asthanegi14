@@ -54,6 +54,11 @@
 
 
 <p align = "center">
+ <img src="https://count.getloli.com/get/@:asthanegi14">
+</p> 
+
+
+<p align = "center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=754f54bi65zwor3xkatzq5ikq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
 </p> 
  
@@ -71,9 +76,6 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asthanegi14&show_icons=true&locale=en&layout=compact&theme=gotham&line_height=0" />
 </p> 
 
-<p align = "center">
- <img src="https://count.getloli.com/get/@:asthanegi14">
-</p> 
 
 <p align = "center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=white&height=250&section=footer&text=Thanks%20For%20Visiting&fontSize=50&theme=tokyonight&animation=twinkling&fontAlignY=70" />
