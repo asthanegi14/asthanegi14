@@ -53,10 +53,10 @@
 </p>
 
 
-<p align = "center">
+<!-- <p align = "center">
  <img src="https://count.getloli.com/get/@:asthanegi14">
 </p> 
-
+ -->
 
 <p align = "center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=754f54bi65zwor3xkatzq5ikq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
