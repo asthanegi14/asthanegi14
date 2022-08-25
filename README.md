@@ -78,11 +78,11 @@
 <!--  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" /> -->
 </p> 
 
-<!-- 
-<p align = "center">
- <img  src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=dracula&bg_color=FF000000&hide_border=true" />
-</p> -->
 
 <p align = "center">
+ <img  src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=gotham&bg_color=FF000000&hide_border=true" />
+</p>
+
+<!--  <p align = "center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=white&height=250&section=footer&text=Thanks%20For%20Visiting&fontSize=50&theme=tokyonight&animation=twinkling&fontAlignY=70" />
-</p> 
+</p>  -->
