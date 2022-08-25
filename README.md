@@ -9,6 +9,18 @@
 <img src="https://wakatime.com/badge/user/db07c0b8-73d5-4aef-8d03-49be9c52c4b1.svg"/>
 </p>
  
+<p align="center"><br>
+- 🔭 I’m currently working on Myself
+ 
+ <p align="center"><br>
+- 🌱 I’m currently learning Operating System
+  
+ <p align="center"><br>
+- 📫 How to reach me asthanegi539@gmail.com
+  
+ <p align="center"><br>
+- ⚡ Fun fact: The Titans in Attack on Titan are based on drunk people.
+
 <h2 align="center">Languages<img src="https://user-images.githubusercontent.com/93486108/182312548-98e25b64-0fe8-496d-bf66-51d671f7d219.gif" width=100></h2>
 <p align="center">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
