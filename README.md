@@ -90,7 +90,9 @@
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asthanegi14&theme=gotham&hide_border=true" />
 <!--  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" /> -->
 </p> 
-
+<p align = "center">
+<img src="https://user-images.githubusercontent.com/93486108/187669816-4ae17fc9-9cb3-4d5b-aa89-535e2fd2a741.svg" />
+</p>
 
 <p align = "center">
  <img  src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=gotham&bg_color=FF000000&hide_border=true" />
@@ -99,3 +101,5 @@
 <!--  <p align = "center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=white&height=250&section=footer&text=Thanks%20For%20Visiting&fontSize=50&theme=tokyonight&animation=twinkling&fontAlignY=70" />
 </p>  -->
+
+
