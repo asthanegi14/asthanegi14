@@ -32,7 +32,7 @@
 
 <br><br>
 <!--
-<h2 align="center">Languages<img src="https://user-images.githubusercontent.com/93486108/182312548-98e25b64-0fe8-496d-bf66-51d671f7d219.gif" width=100></h2>
+<h2 align="center">Languages<img src="https://user-images.githubusercontent.com/93486108/182312548-98e25b64-0fe8-496d-bf66-51d671f7d219.gif" width=90></h2>
 <p align="center">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
