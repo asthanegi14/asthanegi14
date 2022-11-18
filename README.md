@@ -151,27 +151,35 @@
 </p>
 
 <p align = "center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asthanegi14&theme=github_dark">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asthanegi14&theme=github_dark">
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asthanegi14&theme=github_dark"> -->
+<!--   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asthanegi14&theme=github_dark"> -->
+ <img src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asthanegi14&theme=gotham&layout=compact&langs_count=8&hide_border=true">
 </p> 
 
-<p align = "center">
-<!--  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" /> -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=asthanegi14&theme=gotham&hide_border=true" />
-<!--  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" /> -->
-<!--  <img src="https://spotify-github-profile.vercel.app/api/view?uid=754f54bi65zwor3xkatzq5ikq&cover_image=true&theme=default&bar_color_cover=true" /> -->
-</p> 
+
+
+<p align="center">
+<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=asthanegi14&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=asthanegi14&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+</p>
 
 <p align = "center">
 <img src="https://user-images.githubusercontent.com/93486108/187669816-4ae17fc9-9cb3-4d5b-aa89-535e2fd2a741.svg" />
 </p>
 
+<p align="center">
+    <a href="https://wakatime.com/@Voko">
+        <img src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20graph" width="95%" alt="activity graph">
+    </a>
+</p>
+
+
+<!-- 
 <p align = "left">
  <img  src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=gotham&bg_color=FF000000&hide_border=true" />
-</p>
+</p> -->
 
 <!--  <p align = "left">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=white&height=250&section=footer&text=Thanks%20For%20Visiting&fontSize=50&theme=tokyonight&animation=twinkling&fontAlignY=70" />
 </p>  -->
-
 
