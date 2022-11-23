@@ -159,8 +159,10 @@
 
 
 <p align="center">
-<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=asthanegi14&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=asthanegi14&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+<!-- <a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=asthanegi14&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="github-readme-stats"/></a> -->
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=asthanegi14&show_icons=true&theme=gotham&hide_border=true" width="48%" alt="github-readme-streak-stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=asthanegi14&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="github-readme-streak-stats"/>
 </p>
 
 <p align = "center">
