@@ -19,7 +19,7 @@
 
 <p align="left">
 
-- 🔭 I’m currently working as an intern at oasis infobyte
+<!-- - 🔭 I’m currently working as an intern at oasis infobyte -->
  
 - 🔭 I’m Studiying at Graphic Era University Dehradun
 
