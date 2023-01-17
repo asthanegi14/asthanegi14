@@ -23,7 +23,7 @@
  
 - 🔭 I’m Studiying at Graphic Era University Dehradun
 
-- 🌱 I’m currently learning Operating System
+- 🌱 I’m currently learning Block Chain
   
 - 📫 How to reach me asthanegi539@gmail.com
   
