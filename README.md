@@ -172,7 +172,8 @@
 
 <p align="center">
     <a href="https://wakatime.com/@Voko">
-        <img src="https://activity-graph.herokuapp.com/graph?username=asthanegi14&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20graph" width="95%" alt="activity graph">
+<!--         <img src="https://github-readme-activity-graph.vercel.app.com/graph?username=asthanegi14&theme=github-compact" width="95%" alt="activity graph"> -->
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=asthanegi14&bg_color=0f141a&color=85dfe5&line=279b65&point=04fb7b&area=true&hide_border=true" width="95%" alt="activity graph">
     </a>
 </p>
 
