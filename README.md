@@ -21,9 +21,7 @@
 
 <!-- - 🔭 I’m currently working as an intern at oasis infobyte -->
  
-- 🔭 I’m Studiying at Graphic Era University Dehradun
-
-- 🌱 I’m currently learning Block Chain
+- 🔭 I’m Working at Coforge Limited
   
 - 📫 How to reach me asthanegi539@gmail.com
   
@@ -60,7 +58,7 @@
 <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"/>
 </p>
 -->
- 
+
  ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
@@ -128,9 +126,6 @@
 <a href="https://linkedin.com/in/astha-negi-771b22216" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/astha____________" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/asthanegi14" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -150,6 +145,9 @@
 <p align = "center">
   <img  src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asthanegi14&theme=github_dark">
 </p>
+<p align = "center">
+<img src="https://leetcard.jacoblin.cool/Undefined_01?theme=dark&font=East%20Sea%20Dokdo&ext=contest">
+</p> 
 
 <p align = "center">
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asthanegi14&theme=github_dark"> -->
